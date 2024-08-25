@@ -1,0 +1,19 @@
+body {
+    background-color: #f0f8ff; /* Light blue background color */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #2e8b57; /* Sea green color */
+}
+
+p {
+    color: #555;
+}
+
+img {
+    max-width: 300px;
+    border: 2px solid #2e8b57;
+    margin-top: 20px;
+}
